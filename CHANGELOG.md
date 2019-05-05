@@ -1,5 +1,8 @@
 # Change Log
 
+## 5/5/19
+- Added TS types
+
 ## v2.0.2
 ### Bug Fixes
 - Fix empty inline style attribute breaking rendering [#34](https://github.com/wrakky/react-html-parser/pull/34) ([kevinzwhuang](https://github.com/kevinzwhuang))
